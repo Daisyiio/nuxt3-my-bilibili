@@ -14,3 +14,10 @@
     <NuxtPage></NuxtPage>  
     </div>
 </template>
+
+
+<style >
+:root{
+  --van-primary-color:#FB7299 !important
+}
+</style>
